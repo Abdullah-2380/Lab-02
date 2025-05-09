@@ -9,3 +9,18 @@ Console.WriteLine("Chemistry");
 Console.WriteLine("Biology");
 Console.WriteLine("Pak study");
 Console.WriteLine("Tarjama Quran");
+ Console.WriteLine("1st Semester Subjects:");
+ Console.WriteLine("Programming Fundamentals");
+Console.WriteLine("Calculus");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("ITS");
+Console.WriteLine("EHS");
+Console.WriteLine("Physics");
+Semester 2 Subjects:
+1.SCM
+2.DS
+3.SDLC
+4.OOP
+5.Stats
+6.English
+7.QTC
