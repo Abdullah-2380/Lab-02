@@ -1,2 +1,26 @@
 Console.WriteLine("Abdullah Mahmood");
 Console.WriteLine("24-ST-003");
+Console.WriteLine("FSC subjects");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("Physics");
+Console.WriteLine("English");
+Console.WriteLine(""urdu");
+Console.WriteLine("Chemistry");
+Console.WriteLine("Biology");
+Console.WriteLine("Pak study");
+Console.WriteLine("Tarjama Quran");
+ Console.WriteLine("1st Semester Subjects:");
+ Console.WriteLine("Programming Fundamentals");
+Console.WriteLine("Calculus");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("ITS");
+Console.WriteLine("EHS");
+Console.WriteLine("Physics");
+Semester 2 Subjects:
+1.SCM
+2.DS
+3.SDLC
+4.OOP
+5.Stats
+6.English
+7.QTC
